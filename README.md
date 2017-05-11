@@ -1,5 +1,5 @@
 # Responsive-Web
 ## Resume-Emma Gong
 
-[Demo](https://emmmag.github.io/Responsive-Web/)
+<a href="https://emmmag.github.io/Responsive-Web/" target="_blank">Demo</a>
 
